@@ -1,0 +1,17 @@
+
+
+.brand_name{
+    padding-top: 5%;
+    text-align: center;
+    width: 100%;
+    font-size: 40px;
+    font-family: 'Bison';
+    letter-spacing: 1px;
+}
+.about{
+    
+    padding-top: 50px;
+    padding-bottom: 300px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

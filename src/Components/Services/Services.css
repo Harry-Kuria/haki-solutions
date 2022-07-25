@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'Bison';
+    src: url("../../Fonts/bison/Bison-Bold\(PersonalUse\).ttf");
+}
+
+.service_offered{
+    margin: 0;
+    padding: 0;
+    color: whitesmoke;
+    
+    background-image: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75)),url(../../Assets/background.jpg);
+    scroll-behavior: auto;  
+    overflow: hidden;
+    height: auto;
+    
+  }
+
+ 
+
+  
+.image{
+    height: 40%;
+    width: 80%;
+    display: block;
+    margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+
+}
+h2{
+    padding-top: 5%;
+    text-align: center;
+    width: 100%;
+    font-size: 40px;
+    font-family: 'Bison';
+    letter-spacing: 4px;
+}
+footer{
+  height: 20px;
+  background: #000;
+}

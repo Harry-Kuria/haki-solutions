@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&family=Ubuntu&display=swap');
+
+.logo{
+
+    width: 10%;
+    height: 10%;
+}
+.navbar{
+    
+    display: flex;
+    padding: 5px;
+    align-items: center;
+    justify-content: space-between;
+   
+    
+}
+a:link { text-decoration: none; }
+
+.navbar ul li{
+    display: inline-block;
+    margin: 0 20px;
+    padding-right: 5px;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: 'Ubuntu', sans-serif;
+    position: relative;
+    
+}
+
+.navbar ul li::after {
+    content: "";
+    height: 3px;
+    width: 0%;
+    background: rgb(0, 132, 255);
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    transition: 0.5s;
+}
+
+.navbar ul li:hover::after {
+    width: 93%;
+}
