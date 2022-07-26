@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b4ff8bfa.css",
+    "main.js": "/static/js/main.18b1eb17.js",
+    "static/js/512.e512b55c.chunk.js": "/static/js/512.e512b55c.chunk.js",
+    "static/media/graphic_design.jpg": "/static/media/graphic_design.8b9ae740287c5da425de.jpg",
+    "static/media/webDevelopment.jpg": "/static/media/webDevelopment.5c1ade64b15631d8c82a.jpg",
+    "static/media/background.jpg": "/static/media/background.727e14272d3bfc2dd8c7.jpg",
+    "static/media/appDevelopment.jpg": "/static/media/appDevelopment.cb4a484dfd0d53457fa9.jpg",
+    "static/media/logo.jpeg": "/static/media/logo.982a7015ddb9f1a41582.jpeg",
+    "static/media/coolvetica_compressed_hv.otf": "/static/media/coolvetica_compressed_hv.d5345494c786e5560f58.otf",
+    "static/media/cctv.jpeg": "/static/media/cctv.ecc10ee561a67e49fb44.jpeg",
+    "static/media/Bison-Bold(PersonalUse).ttf": "/static/media/Bison-Bold(PersonalUse).586948d0258a1cde5270.ttf",
+    "static/media/wifi.jpg": "/static/media/wifi.6134078e75aad5c15f1d.jpg",
+    "index.html": "/index.html",
+    "main.b4ff8bfa.css.map": "/static/css/main.b4ff8bfa.css.map",
+    "main.18b1eb17.js.map": "/static/js/main.18b1eb17.js.map",
+    "512.e512b55c.chunk.js.map": "/static/js/512.e512b55c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4ff8bfa.css",
+    "static/js/main.18b1eb17.js"
+  ]
+}
