@@ -2,7 +2,7 @@
   "name": "haki_solutions",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://Harry-Kuria.github.io/haki-solutions",
+  "homepage":"https://harry-kuria.github.io/haki-solutions",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
