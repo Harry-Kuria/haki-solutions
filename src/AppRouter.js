@@ -7,7 +7,7 @@ const AppRouter = () => {
   return (
     <BrowserRouter>
   <Routes>
-      <Route exact path='/' element={<Home></Home>}></Route>
+      
     
       <Route exact path='/services' element={<Services></Services>}></Route>
       <Route exact path='#contacts' element={<Footer id='contacts'></Footer>}></Route>
