@@ -9,8 +9,8 @@ const AppRouter = () => {
   <Routes>
       <Route exact path='/' element={<Home></Home>}></Route>
     
-      <Route exact path='/services' element={<Services></Services>}></Route>
-      <Route exact path='#contacts' element={<Footer id='contacts'></Footer>}></Route>
+      <Route exact path='haki-solutions/services' element={<Services></Services>}></Route>
+      <Route exact path='haki-solutions/#contacts' element={<Footer id='contacts'></Footer>}></Route>
         
 
         </Routes>
