@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/haki-solutions/static/css/main.54e8e6e3.css",
-    "main.js": "/haki-solutions/static/js/main.c0d271a0.js",
+    "main.js": "/haki-solutions/static/js/main.c723f401.js",
     "static/js/512.e512b55c.chunk.js": "/haki-solutions/static/js/512.e512b55c.chunk.js",
     "static/media/graphic_design.jpg": "/haki-solutions/static/media/graphic_design.8b9ae740287c5da425de.jpg",
     "static/media/webDevelopment.jpg": "/haki-solutions/static/media/webDevelopment.5c1ade64b15631d8c82a.jpg",
@@ -14,11 +14,11 @@
     "static/media/wifi.jpg": "/haki-solutions/static/media/wifi.6134078e75aad5c15f1d.jpg",
     "index.html": "/haki-solutions/index.html",
     "main.54e8e6e3.css.map": "/haki-solutions/static/css/main.54e8e6e3.css.map",
-    "main.c0d271a0.js.map": "/haki-solutions/static/js/main.c0d271a0.js.map",
+    "main.c723f401.js.map": "/haki-solutions/static/js/main.c723f401.js.map",
     "512.e512b55c.chunk.js.map": "/haki-solutions/static/js/512.e512b55c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.54e8e6e3.css",
-    "static/js/main.c0d271a0.js"
+    "static/js/main.c723f401.js"
   ]
 }
